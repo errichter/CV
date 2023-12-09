@@ -11,5 +11,5 @@ The files present are:
 
 Some additional term definitions might be necessary:
 - Micro-Engineering at EPFL: It is a mixture between electrical and mechanical engineering. The direct follow-ups to this Bachelors is Robotics and Micro- Nano-systems. It encompasses electronics, mechanical systems, CAD, Programming, Simulation, Manufacturing and nano-fabrication etc...
-- Neuromorphic Computing: It is a field of neuroscience and Machine learning focusing on understanding and replicating the way the brain learns in simulation and in micro-chip implementations.
+
 
