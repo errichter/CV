@@ -2,13 +2,21 @@
 Curriculum vitae and relevant application documents provided by Eric Richter. 
 
 ## 00 - CV
-Curiculum vitae and list of projects done in an academic or asssociative setting
+Contains:
+ - Curiculum vitae
+ - List of projects done in an academic or in an associative setting
 
 ## 01 - Transcripts
-Bachelor Certificate from EPFL, Grades from EPFL master's, bechelor's and from ETHZ master's
+Contains: 
+ - Grades from ETHZ master's degree in Mechanical engineering
+ - Grades from discontinued EPFL master's degree in micro-engineering
+ - Bachelor's Degree from EPFL
+ - Grades from EPFL bachelor's degree in micro-engineering
 
 ## 02 - Recommendation Letters
-Recommendation letter from Sensirion (Internship) and from prof. Melika Payvand (Semester project in neuro-informatics)
+Contains:
+ - Recommendation letter from Sensirion (Internship)
+ - Recommendation letter from prof. Melika Payvand (Semester project in neuro-informatics)
 
 ## 03 - Certificats
 Multiple certificats obtained along my path: 
