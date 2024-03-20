@@ -8,9 +8,9 @@ Contains:
 
 ## 01 - Transcripts
 Contains: 
- - Grades from ETHZ master's degree in Mechanical engineering
+ - Grades from ETHZ master's degree in mechanical engineering
  - Grades from discontinued EPFL master's degree in micro-engineering
- - Bachelor's Degree from EPFL
+ - Bachelor's degree from EPFL
  - Grades from EPFL bachelor's degree in micro-engineering
 
 ## 02 - Recommendation Letters
